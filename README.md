@@ -62,7 +62,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/cratos9/cratos9/output/snake.svg" alt="Snake animation" />
-
-###
